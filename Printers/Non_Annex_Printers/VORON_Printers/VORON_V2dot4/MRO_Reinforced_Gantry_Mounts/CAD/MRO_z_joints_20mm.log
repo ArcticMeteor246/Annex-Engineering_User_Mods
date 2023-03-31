@@ -1,0 +1,31 @@
+Solid Edge Translation to STEP
+Date: fredag,mars 31,2023 08:19p.m.
+Output File: C:\Users\mats1\Documents\GIT repoer\Annex-Engineering_User_Mods\Printers\Non_Annex_Printers\VORON_Printers\VORON_V2dot4\MRO_Reinforced_Gantry_Mounts\CAD\MRO_z_joints_20mm.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: AMD Ryzen 7 5800H with Radeon Graphics         
+Operating System: Windows 11 Version:22H2 Build:22621 System Type:64-bit
+Installed Memory: 63.85 GB
+
+Software Information
+Parasolid Version: 35.0.239
+PSBodyShop Version: 35.0.102
+Step Adapter Version: 11.0.157
+Solid Edge Version: 223.00.03.004 x64
+
+STEP Export Options
+Export Format: AP214
+Export Construction Sheets: Off
+Export Construction Solids: Off
+Export Construction Wires: Off
+Export Displayed Parts Only: Off
+Export Units: Millimeters
+Export Part Component Names As Unicode: Off
+Export PMI: Off
+
+Phase 1 of 1 Translating Parasolid to foreign data types...
+Translation process completed
+Time required to translate:00 : 00 : 02
