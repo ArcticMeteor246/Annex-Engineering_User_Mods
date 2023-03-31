@@ -1,5 +1,5 @@
 Solid Edge Translation to STEP
-Date: fredag,mars 31,2023 08:19p.m.
+Date: fredag,mars 31,2023 09:52p.m.
 Output File: C:\Users\mats1\Documents\GIT repoer\Annex-Engineering_User_Mods\Printers\Non_Annex_Printers\VORON_Printers\VORON_V2dot4\MRO_Reinforced_Gantry_Mounts\CAD\MRO_z_joints_20mm.stp
 Author: Unknown
 Organization: Unknown
@@ -28,4 +28,4 @@ Export PMI: Off
 
 Phase 1 of 1 Translating Parasolid to foreign data types...
 Translation process completed
-Time required to translate:00 : 00 : 02
+Time required to translate:00 : 00 : 01
